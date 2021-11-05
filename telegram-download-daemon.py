@@ -104,7 +104,7 @@ if not tempFolder:
     tempFolder = downloadFolder
 
 # Edit these lines:
-proxy = None
+proxy = ("socks5", '192.168.50.94', 1080)
 
 # End of interesting parameters
 
